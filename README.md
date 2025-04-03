@@ -1,6 +1,6 @@
 # Instructions 
 
-This project will serve to evaluate students for the "Advanced Topics in Financial Modelling" class. Submit your work as a ![image](img/python-logo.png){width="3%"} Jupyter Notebook or an ![image](img/R-logo.png){width="3.5%"} Markdown document. A significant part of the grade will be determined by the quality of presentation, including literary comments as well as nice LaTeX equations, ideally directly in the notebook. This project can be done individually or by pair, but not more. [**[Submissions will not be accepted after April, $20^{th}$ 2025]{.underline}**]{style="color: blue"}.
+This project will serve to evaluate students for the "Advanced Topics in Financial Modelling" class. Submit your work as a <img src="img/python-logo.png" alt="python logo" width="24" /> Jupyter Notebook or an <img src="img/R-logo.png" alt="python logo" width="24" /> Markdown document. A significant part of the grade will be determined by the quality of presentation, including literary comments as well as nice LaTeX equations, ideally directly in the notebook. This project can be done individually or by pair, but not more. [**[Submissions will not be accepted after April, $20^{th}$ 2025]{.underline}**]{style="color: blue"}.
 
 If you have issues with the Yahoo API, write the code in the Notebook but you can use the <a href = "project_raw_data.csv">project_raw_data.csv</a> as a backup.
 
