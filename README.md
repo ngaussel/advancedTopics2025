@@ -1,3 +1,8 @@
+<script type="text/javascript"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # Instructions 
 
 This project will serve to evaluate students for the "Advanced Topics in Financial Modelling" class. Submit your work as a <img src="img/python-logo.png" alt="python logo" width="24" /> Jupyter Notebook or an <img src="img/R-logo.png" alt="python logo" width="24" /> Markdown document. A significant part of the grade will be determined by the quality of presentation, including literary comments as well as nice LaTeX equations, ideally directly in the notebook. This project can be done individually or by pair, but not more. [**[Submissions will not be accepted after April, $20^{th}$ 2025]{.underline}**]{style="color: blue"}.
